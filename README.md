@@ -1,5 +1,5 @@
 # Compact_scanner
-A simple python script that scans a target very fastly. 200ports per second on my virtual machine 
+A simple python script that scans a target very fastly.
 
 # Installation
 This is how to install the program <br/>
