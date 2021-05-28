@@ -1,5 +1,5 @@
 # Compact Scanner
-A simple python script that scans a target very fastly.
+A simple python script that scans a target very fast.
 
 # Installation
 This is how to install the program <br/>
